@@ -1,5 +1,23 @@
-Just Cook is a cooking recipe website where people can save and vote for recipes that are their favorites.
+# Just Cook
+*Web application for recipe management*
 
-The website was developed using SCSS to implement a style management system. Additionally, Vue.JS was used for the implementation of reactive components.
+**Vue.js • Sass • Laravel • REST APIs**
 
-The backend of the site was developed using Laravel from a local server. This allowed us to create a local API which was consumed by the Axios implementation thanks to Vue.
+---
+
+### Technical Approach
+**Front-End Architecture • Reusable Components • API Integration • Authentication and Authorization**
+
+---
+
+#### Architecture
+- Implemented a reusable component-based architecture using Vue.js and the Sass 7–1 architecture.
+
+#### Backend Integration
+- Defined API contracts and collaborated on designing Laravel endpoints.
+
+#### Product Features
+- Implemented authentication, role-based authorization, and an administrative dashboard.
+
+#### Engineering Outcome
+- Strengthened my foundation in Front-End architecture, component reusability, and scalable application development through the successful delivery of the project.
